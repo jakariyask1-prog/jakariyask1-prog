@@ -82,10 +82,12 @@ AI Agents • AI Automation • AI Integration • Custom AI Solutions • AI So
 ---
 
 🤝 Let's Connect
-
+- 🌐 protfolio:
+https://jakariyask1-prog.github.io/portfolio/#projects
 - 🌐 Website: https://www.zenivixon.com
 - 💼 LinkedIn: https://www.linkedin.com/in/md-jakariya-sheikh-65973618a/
 - 💻 GitHub: https://github.com/jakariyask1-prog
+
 
 ---
 
